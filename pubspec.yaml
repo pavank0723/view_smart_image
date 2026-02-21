@@ -2,6 +2,9 @@ name: view_smart_image
 description: A reusable Flutter image widget supporting SVG, network and asset images with optional tint color.
 version: 1.0.0
 
+homepage: https://github.com/pavank0723/view_smart_image
+repository: https://github.com/pavank0723/view_smart_image
+issue_tracker: https://github.com/pavank0723/view_smart_image/issues
 
 environment:
   sdk: ^3.11.0
